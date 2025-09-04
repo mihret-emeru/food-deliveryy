@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="Cream">#EEEEEE</color>
+    <color name="Blue">#2196F3</color>
+    <color name="DarkBlue">#1976D2</color>
+    <color name="LightPink">#FF4081</color>
+    <color name="LightBlack">#212121</color>
+    <color name="Green">#4CAF50</color>
+    <color name="Red">#F44336</color>
+    <color name="LightBlue">#ADD8E6</color>
+    <color name="SkyBlue">#87CEEB</color>
+    <color name="PowderBlue">#B0E0E6</color>
+    <color name="LightYellow">#FFF9C4</color>
+    <color name="DarkYellow">#FFC107</color>
+    <color name="DarkLemon">#51FF07</color>
+    <color name="MintGreen">#6EE7B7</color>
+    <color name="Purpleblend">#A5B4FC</color>
+    <color name="SoftPurple">#D8B4FE</color>
+    <color name="lightOrange">#FFD180</color>
+    <color name="orange">#FFA500</color>
+    <color name="darkOrange">#FF8C00</color>
+    <color name="amber">#FFC107</color>
+    <color name="burntOrange">#CC5500</color>
+    <color name="lightGray">#D3D3D3</color>
+    <color name="VeryLightGray">#EEEEEE</color>
+    <color name="GrayforTextHint">#888888</color>
+</resources>

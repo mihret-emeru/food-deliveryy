@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:padding="24dp"
+    android:gravity="center"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/order1">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="90dp"
+        android:fontFamily="sans-serif-light"
+        android:text="  Delivery Registration Form"
+        android:textColor="@color/white"
+        android:textSize="25sp"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/edtUsername"
+        android:hint="New Username"
+        android:inputType="text"
+        android:textSize="25sp"
+        android:textColor="@color/white"
+        android:textColorHint="@color/white"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"/>
+
+    <EditText
+        android:id="@+id/edtPassword"
+        android:hint="New Password"
+        android:textColorHint="@color/white"
+        android:textSize="25sp"
+        android:inputType="textPassword"
+        android:textColor="@color/white"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"/>
+
+
+    <Button
+        android:id="@+id/btnRegister"
+        android:layout_width="195dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
+        android:textColor="@color/black"
+        android:backgroundTint="@color/SkyBlue"
+        android:text="Register" />
+
+</LinearLayout>
